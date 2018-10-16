@@ -1,2 +1,15 @@
-    This is a project for practicing any technology and skills .
-    
+    本工程为整个项目的管理后台，构建顺序如下
+    一.新建构成:
+      1.创建项目，创建src/main/java和src/test/java目录
+      2.添加pom依赖，添加spring-servlet.xml和applicationContext.xml(https://www.cnblogs.com/sunniest/p/4555801.html)
+    二:配置IDEA环境
+      1.配置注释模板,https://blog.csdn.net/u011961421/article/details/78773665
+      2.添加阿里巴巴java代码规范约束插件
+        下载地址:https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines
+        参考文档:https://www.cnblogs.com/cnndevelop/p/7697920.html
+    三:配置github环境
+      1.配置idea github，https://blog.csdn.net/yhao2014/article/details/44101781
+      2.配置.gitignore，https://www.cnblogs.com/kevingrace/p/5690241.html
+      3.换行符配置: https://blog.csdn.net/github_30605157/article/details/56680990，https://www.cnblogs.com/yepei/p/5650290.html
+    四:配置idea tomcat开发环境
+      1.

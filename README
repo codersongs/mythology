@@ -11,5 +11,16 @@
       1.配置idea github，https://blog.csdn.net/yhao2014/article/details/44101781
       2.配置.gitignore，https://www.cnblogs.com/kevingrace/p/5690241.html
       3.换行符配置(git 和 idea): https://blog.csdn.net/github_30605157/article/details/56680990，https://www.cnblogs.com/yepei/p/5650290.html
-    四:配置idea tomcat开发环境
+    四:idea 快捷键:https://blog.csdn.net/houfeng30920/article/details/79037647
+    五:配置idea tomcat开发环境
       1.tomcat 环境配置
+    五.问题
+      1.问题:Push failed: Failed with error: Could not read from remote repository.
+        方案:https://stackoverflow.com/questions/27566999/git-with-intellij-idea-could-not-read-from-remote-repository
+      2.问题:jsp找不到
+        方案:https://blog.csdn.net/FarAwayWL/article/details/69527392
+      3.问题:静态文件处理
+        方案:https://www.cnblogs.com/echo1937/p/6225226.html
+      4.问题:web.xml 标签顺序（warning）
+        方案:https://blog.csdn.net/goskalrie/article/details/49885787
+
